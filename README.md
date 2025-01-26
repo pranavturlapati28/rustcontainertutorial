@@ -1,2 +1,2 @@
 # rustcontainertutorial
-rust container setup
+https://bugaboolol.github.io/comp423-course-notes/tutorials/rust-setup/
